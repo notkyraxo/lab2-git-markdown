@@ -15,14 +15,23 @@ tasks are comparable.  Here are the tasks:
    ```
    cd Desktop/school/info201/labs
    ```
+```
+cd ~/OneDrive/UW/"Winter 2023"/"info 201"/lab2-git-markdown
+```
 
 1. **fork** this repository on Github under your user name (see
    [course book 4.6.1](https://faculty.washington.edu/otoomet/info201-book/git-basics.html#forking-and-cloning)).
+   ```
+   Click fork button on GitHub
+   ```
 
 2. **clone** the forked repo to your computer (see [course
    book 4.3.3](https://faculty.washington.edu/otoomet/info201-book/git-basics.html#git-basics-getting-creating)).
    Write the command you
    used underneath in a code block.
+   ```
+   git clone https://github.com/notkyraxo/lab2-git-markdown.git
+   ```
    
 3. **add a new file** "books.md" to the repo.  You can use RStudio
    (file -> new file -> markdown file), or any other tool you find
