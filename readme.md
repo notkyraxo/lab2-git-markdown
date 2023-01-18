@@ -62,13 +62,17 @@ Changes not staged for commit:
 no changes added to commit (use "git add" and/or "git commit -a")
 
    Explain, in plain text, what does it mean.
-   
+   ```
    There were modifications made to both the books.md file and readme.md file
+   ```
    
 6. **add** the new file to the repository (see [course book
   4.4.3](https://faculty.washington.edu/otoomet/info201-book/git-basics.html#git-basics-working-adding)).
   Show your command (as a
   code block).
+  ```
+  git add .
+  ```
 
 7. Was your add successful?  Check status again!  Explain what do you
    see.
