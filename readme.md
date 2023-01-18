@@ -36,18 +36,34 @@ cd ~/OneDrive/UW/"Winter 2023"/"info 201"/lab2-git-markdown
 3. **add a new file** "books.md" to the repo.  You can use RStudio
    (file -> new file -> markdown file), or any other tool you find
    convenient.
+   ```
+   added new markdown file into lab 2 folder
+   ```
    
 4. add a numbered list of book you like to this file
    (see [Github markdown
    docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)). 
    You can use
    RStudio editor, or any other editor you like.
+   ```
+   opened books.md in Rstudio to edit and add numbered list
+   ```
    
 5. check **git status** (see [course book
    4.4.1](https://faculty.washington.edu/otoomet/info201-book/git-basics.html#git-basics-situational-awareness)).
    Show below, in _block quote_, what does it print.
-   
+   > On branch main
+Your branch is up to date with 'origin/main'.
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   books.md
+        modified:   readme.md
+no changes added to commit (use "git add" and/or "git commit -a")
+
    Explain, in plain text, what does it mean.
+   
+   There were modifications made to both the books.md file and readme.md file
    
 6. **add** the new file to the repository (see [course book
   4.4.3](https://faculty.washington.edu/otoomet/info201-book/git-basics.html#git-basics-working-adding)).
