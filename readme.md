@@ -83,15 +83,23 @@ no changes added to commit (use "git add" and/or "git commit -a")
    4.4.4](https://faculty.washington.edu/otoomet/info201-book/git-basics.html#git-basics-working-committing)). 
    Put your command underneath in a code block.
    
+   ```
+   git commit -am "updated files"
+   ```
+   
 9. Was your commit successful?  How can you check it?  Show your
    command(s) as a code block and explain what you see!
+   Yes
    
 10. Now **push** your changes to Github (see [course book 4.4.5](https://faculty.washington.edu/otoomet/info201-book/git-basics.html#git-basics-working-pushing)).  You may
    need to create access token before you are able to push.
+   ```
+   git push
+   ```
    
 11. Go to your github page.  Can you see the books.md file there with
     all the books listed?
-
+Yes!
 
 ## Folders and relative path
 
