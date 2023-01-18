@@ -76,7 +76,9 @@ no changes added to commit (use "git add" and/or "git commit -a")
 
 7. Was your add successful?  Check status again!  Explain what do you
    see.
-   
+  
+  Yes, when I check Git status it says that it's up to date.
+  
 8. Now **commit** your changes (see [course book
    4.4.4](https://faculty.washington.edu/otoomet/info201-book/git-basics.html#git-basics-working-committing)). 
    Put your command underneath in a code block.
